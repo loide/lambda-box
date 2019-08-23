@@ -4,3 +4,6 @@
 # tools included
 * Python 2.7
 * Python 3.6
+* pip 9.0.1
+* virtualenv 16.7.3
+* virtualenv
