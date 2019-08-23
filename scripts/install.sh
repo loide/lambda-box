@@ -18,7 +18,6 @@ apt-get -y install python3-pip
 sudo pip install virtualenv
 sudo pip install virtualenvwrapper
 
-echo "------------- $HOME -------------------------------------"
 echo "export WORKON_HOME=/home/vagrant/.virtualenvs" >> /home/vagrant/.bashrc
 echo "source /usr/local/bin/virtualenvwrapper.sh" >> /home/vagrant/.bashrc
 source /home/vagrant/.bashrc
